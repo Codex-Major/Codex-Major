@@ -1,0 +1,4 @@
+- 👋 Hello, I’m @Codex-Major.
+- 👀 I’m interested in videogame developement and hacking all the things.
+- 👨‍💻 I’m currently practicing Python, Javascript, HTML, CSS, C++.
+- 🧗 Delving into Linux Systems Administration and Vulnerability Analysis.
