@@ -93,19 +93,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
             <a href="https://www.buymeacoffee.com/CodexMajor" target="_blank" style="display: inline-block;">
                 <img
