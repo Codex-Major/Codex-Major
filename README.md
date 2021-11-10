@@ -12,7 +12,7 @@
 - 👨‍💻 I’m currently practicing Python, Javascript, HTML, CSS, and C#.  
   
 
-- 🧗 Delving into Linux Systems Administration and Vulnerability Analysis.  
+- 🧗 Delving into Linux systems administration and vulnerability analysis.  
   
 
 <br/>  
