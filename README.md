@@ -6,7 +6,7 @@
 ### <div align="center">👋 Hello, I’m @Codex-Major.</div>  
   
 
-- 👀 I’m interested in videogame development, Linux systems administration and hacking all the things.  
+- 👀 I’m interested in Linux systems administration and hacking all the things.  
   
 
 - 👨‍💻 I’m currently practicing Python, Javascript, HTML, CSS, and C#.  
