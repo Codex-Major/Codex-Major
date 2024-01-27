@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
-  
 
 ### <div align="center">👋 Hello, I’m @Codex-Major.</div>  
   
@@ -13,15 +12,11 @@
   
 
 - 🧗 Delving into Linux systems administration and vulnerability analysis.  
-  
 
-<br/>  
-
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">
@@ -32,8 +27,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -49,8 +42,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 </div>  
 
-
-
 ### Videogame Development  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
@@ -58,8 +49,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Systems Admin  
 <div align="center">  
@@ -73,7 +62,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Codex-Major" target="_blank">
@@ -84,15 +72,7 @@
 </a>  
 </div>  
   
-
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codex-Major&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/CodexMajor" target="_blank" style="display: inline-block;">
