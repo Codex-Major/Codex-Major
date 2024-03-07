@@ -11,7 +11,10 @@
 - 👨‍💻 I’m currently practicing Python, Javascript, HTML, CSS, and C#.  
   
 
-- 🧗 Delving into Linux systems administration and vulnerability analysis.  
+- 🧗 Delving into Linux systems administration and vulnerability analysis.
+
+
+- 🎓 Certified Penetration Testing Specialist by Hack the Box as of 02-1-2024
 
 <br/>
 
