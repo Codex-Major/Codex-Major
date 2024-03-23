@@ -14,7 +14,9 @@
 - 🧗 Delving into Linux systems administration and vulnerability analysis.
 
 
-- 🎓 Certified Penetration Testing Specialist by Hack the Box as of 02-1-2024
+- 🎓 Certified Penetration Testing Specialist by Hack the Box as of 02-05-2024
+
+- 💻 Check out <a href="https://codexmajor.pro/" >my blog/CV</a>.
 
 <br/>
 
