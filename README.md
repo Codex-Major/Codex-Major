@@ -8,7 +8,7 @@
 - 👀 I’m interested in Linux systems administration and hacking all the things.  
   
 
-- 👨‍💻 I’m currently practicing Python, Javascript, HTML, CSS, and C#.  
+- 👨‍💻 I’m currently practicing Python, Javascript, HTML, CSS, and Bash scripting.
   
 
 - 🧗 Delving into Linux systems administration and vulnerability analysis.
